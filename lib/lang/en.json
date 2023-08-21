@@ -1,0 +1,117 @@
+{
+  "appName": "App Name",
+  "logout": "Logout",
+  "logoutDesc": "Are you sure you want to logout?",
+  "yes": "Yes",
+  "no": "No",
+  "apply": "Apply",
+  "changePassword": "Change Password",
+  "or": "or",
+  "groceries": "Groceries",
+
+  "no_internet": "No Internet Connection",
+  "noDataAvailable": "No data found",
+
+  "getYourMoneyUnderControl": "Get Your Money Under Control",
+  "createAccount": "Create an account so you can manage your personal finances",
+  "skip": "Skip",
+  "next": "Next",
+
+  "recordTransaction": "Record your Every Transaction Easily",
+  "recordBudget": "Record your every budget and transaction easily",
+  "weekly": "Weekly",
+  "gpay": "G-Pay",
+  "yearly": "Yearly",
+  "cash": "Cash",
+  "to": "To",
+
+  "customizeBudget": "Customize your Budget Effectively",
+  "setYourBudget": "Set your budget according to your Expenses.",
+  "getStarted": "Get Started",
+
+  "email": "E-mail",
+  "enterNewPassword": "Enter a New Password",
+  "forgotPassword": "Forgot Password?",
+  "signIn": "Sign IN",
+  "forgotPasswordDesc": "Enter your email address to enable 2 step verification.",
+  "iAmSoHappy": "I am so happy to see. You can continue to login for manage your Expenses.",
+  "don'tHaveAccount": "Don't have an account?",
+
+
+  "name": "Name",
+  "password": "Password",
+  "phoneNo": "Phone No",
+  "setPassword": "Set Password",
+  "confirmPassword": "Confirm Password",
+  "signUp": "Sign UP",
+  "signUpMessage": "Create an account so you can manage your personal expenses.",
+  "alreadyHaveAccount": "Already have an account?",
+
+  "forgotPassword?": "Forgot Password",
+  "weSendYouCode": "We send you a code to verify your email",
+  "Continue": "Continue",
+  "enterOtp": "Enter Your OTP",
+  "dntReceiveCode": "Don't Receive Code?",
+  "sendAgain": "Send Again",
+
+  "setBudget": "Set Budget",
+  "welcomeMessage": "Welcome to Expense Manager Let's Setup Your Budget",
+
+  "budget": "Budget",
+  "expenses": "Expenses",
+  "recentExpenses": "Recent Expenses",
+
+  "account": "Account",
+  "chooseanCategory": "Choose an Category",
+  "help": "Help",
+  "report": "Report",
+  "termsCondition": "Terms & Condition",
+  "shareApp": "Share App",
+  "rateApp": "Rate App",
+  "privacyPolicy": "Privacy Policy",
+  "termsAndCondition": "Terms and Condition",
+  "settings": "Settings",
+  "logOut": "Log Out",
+
+  "filters": "Filters",
+
+  "profile": "Profile",
+  "inviteFriends": "Invite Friends",
+  "accountInfo": "Account Info",
+  "personalInfo": "Personal Info",
+  "loginAndSecurity": "Login and Security",
+  "dataAndPrivacy": "Data and Privacy",
+
+  "editProfile": "Edit Profile",
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "continueWithApple": "Continue With Apple",
+  "continueWithGoogle": "Continue With Google",
+  "update": "Update",
+
+  "allMonths": "All Months",
+  "singleMonths": "Single Month",
+  "selectMonth": "Select Month",
+  "enterAmount": "Enter Amount",
+  "save": "Save",
+  "yetnotaddedcategory": "Yet not added category",
+  "yetnotaddedexpenses": "Yet not added Expenses",
+
+  "Category": "Category",
+
+  "addCategory": "Add Category",
+  "categoryName": "Enter Category Name",
+  "add": "Add",
+  "yourPasswordhasbeenChanged": "Your Password has been Changed. Login again !",
+
+
+  "addExpense": "Add Expense",
+  "title": "Title",
+  "description": "Description",
+  "amount": "Amount",
+  "paymentMode": "Payment Mode",
+  "date": "Date",
+  "cost": "Cost",
+
+  "total": "Total"
+}
