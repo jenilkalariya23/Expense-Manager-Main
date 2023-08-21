@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1069245798760",
+    "project_id": "expense-management-8b241",
+    "storage_bucket": "expense-management-8b241.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069245798760:android:ed14308d1bad74e704dedd",
+        "android_client_info": {
+          "package_name": "com.empyreal.expensemanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069245798760-fbiaa6qgiqgio0ts80m19rh6gbkr81vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm67aQRCad57rKwgVanNvkhTOhAKZirvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069245798760-fbiaa6qgiqgio0ts80m19rh6gbkr81vk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1069245798760-8oif37r7jcmtd4rrmo36gqboa7k5fd36.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.empyreal.expensemanagement"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
